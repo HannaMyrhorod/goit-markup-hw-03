@@ -103,8 +103,8 @@ img {
 }
 .site-nav a {
   display: block;
-  padding-top: 21px;
-  padding-bottom: 21px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 
   color: var(--title-text-color);
   text-decoration: none;
